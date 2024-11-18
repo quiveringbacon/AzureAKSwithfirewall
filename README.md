@@ -1,4 +1,4 @@
-# Azure AKS with firewall
+# Azure AKS with Azure Firewall
 
 This is adapted from: https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-terraform?pivots=development-environment-azure-cli and https://learn.microsoft.com/en-us/azure/firewall/protect-azure-kubernetes-service
 
